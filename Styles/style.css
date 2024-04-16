@@ -159,4 +159,8 @@ body{
     .corpo{
         flex-direction: column-reverse;
     }
+
+    .corpo__conteudo__titulo--2{
+        font-size: 2rem;
+    }
 }
