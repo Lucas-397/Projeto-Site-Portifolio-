@@ -54,8 +54,6 @@ body{
 .corpo__imagem{
     width: 50%;
     margin-top: 0;
-    border: 3px solid var(--cor-primaria);
-    border-radius: 8px;
 }
 
 .corpo__conteudo{
