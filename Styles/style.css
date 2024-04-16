@@ -51,7 +51,7 @@ body{
 }
 
 .corpo__imagem{
-    height: 50%;
+    width: 50%;
     margin-top: 0;
     border: 3px solid var(--cor-primaria);
     border-radius: 8px;
@@ -61,6 +61,7 @@ body{
     display: flex; 
     flex-direction: column;
     gap:  2rem;
+    width: 50%;
 }
 
 .corpo__conteudo__titulo{
