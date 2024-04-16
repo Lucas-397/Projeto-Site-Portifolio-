@@ -58,8 +58,6 @@ body{
 }
 
 .corpo__conteudo{
-    width: 620px;
-    height: 485px;
     display: flex; 
     flex-direction: column;
     gap:  2rem;
