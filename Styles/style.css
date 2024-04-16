@@ -157,6 +157,6 @@ body{
 
 @media (max-width:1200px) {
     .corpo{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 }
