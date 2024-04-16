@@ -45,6 +45,7 @@ body{
 
 .corpo{
     padding: 6% 15%;
+    gap: 83px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -152,4 +153,10 @@ body{
 
 .rodape__links__link:hover{
     color: var(--cor-secundaria-hover); 
+}
+
+@media (max-width:1200px) {
+    .corpo{
+        flex-direction: column;
+    }
 }
