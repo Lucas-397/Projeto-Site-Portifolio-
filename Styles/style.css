@@ -62,18 +62,12 @@ body{
     height: 485px;
     display: flex; 
     flex-direction: column;
-    gap:  35px;
+    gap:  2rem;
 }
 
 .corpo__conteudo__titulo{
     font-family: var(--fonte-primaria);
-    font-size: 34px;
-}
-
-.corpo__conteudo__titulo--2{
-    font-family: var(--fonte-primaria);
-    font-size: 36px;
-    color: var(--cor-primaria);
+    font-size: 2.25rem;
 }
 
 .titulo__destaque{
@@ -82,7 +76,7 @@ body{
 
 .corpo__conteudo__paragrafo{
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .paragrafo__destaque{
@@ -100,11 +94,11 @@ body{
 .corpo__links__botoes{  
     display: flex;
     justify-content: center;
-    gap: 16px;  
+    gap: 1rem;  
     color: var(--cor-terciaria);
     text-align: center;
     width: 370px;
-    border-radius:8px;
+    border-radius:0.5rem;
     font-weight: 600pc;
     font-family: "Montserrat", sans-serif;
     font-size: 24px ;
