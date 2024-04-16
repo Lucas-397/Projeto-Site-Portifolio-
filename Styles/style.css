@@ -134,6 +134,11 @@ body{
     gap: 20px;
 }
 
+.rodape__links__contato{
+    display: flex;
+    flex-direction: row;
+}
+
 .rodape__links__link {
     text-decoration: none;
     color: var(--cor-secundaria);
