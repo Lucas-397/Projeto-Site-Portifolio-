@@ -71,8 +71,6 @@ body{
 }
 
 .corpo__conteudo__titulo--2{
-    font-family: var(--fonte-primaria);
-    font-size: 2.25rem;
     color: var(--cor-primaria);
 }
 
@@ -158,9 +156,14 @@ body{
 @media (max-width:1200px) {
     .corpo{
         flex-direction: column-reverse;
+        padding: 10%;
     }
 
-    .corpo__conteudo__titulo--2{
-        font-size: 2rem;
+    .corpo__conteudo__titulo{
+        font-size: 1.5rem;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
     }
 }
