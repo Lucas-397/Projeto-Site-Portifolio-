@@ -102,7 +102,7 @@ body{
     gap: 1rem;  
     color: var(--cor-terciaria);
     text-align: center;
-    width: 370px;
+    width: 50%;
     border-radius:8px;
     font-weight: 600pc;
     font-family: "Montserrat", sans-serif;
