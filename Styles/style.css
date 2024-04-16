@@ -130,7 +130,8 @@ body{
 
 .rodape__links{
     display: flex;
-    align-items: center;
+    text-align: center;
+    justify-content: center;
     gap: 20px;
     flex-direction: row;
 }
