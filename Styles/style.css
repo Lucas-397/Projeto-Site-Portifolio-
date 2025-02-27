@@ -44,11 +44,12 @@ body{
 }
 
 .corpo{
-    padding: 6% 15%;
+    padding: 2% 15%;
     gap: 83px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    height: 60%;
 }
 
 .corpo__imagem{
